@@ -1,6 +1,4 @@
-
-
-##Estudo de algoritmos envolvendo vetores e matrizes em pseudocódigo (VisualG).
+Estudo de algoritmos envolvendo vetores e matrizes em pseudocódigo (VisualG).
 
 Em Vetores temos os seguintes algoritmos :
 
