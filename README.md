@@ -1,4 +1,9 @@
-Estudo de algoritmos envolvendo vetores e matrizes em pseudocódigo (VisualG).
+Estudo de algoritmos envolvendo vetores, matrizes e funções em pseudocódigo (VisualG).
+
+Em funções temos os seguintes programas : 
+
+- Programa de validação de triângulos.
+- Programa de cadastro de clientes.
 
 Em Vetores temos os seguintes algoritmos :
 
